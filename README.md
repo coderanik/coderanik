@@ -1,8 +1,8 @@
 # 💫 About Me :
 
-🌱 I’m currently learning **ReactJS**  
-💬 Ask me about **Front-end web development**    
-🚀 Currently exploring **Backend Technologies**  
+🌱 I’m currently learning **NextJS**  
+💬 Ask me about **Full Stack development**    
+🚀 Currently exploring **AI/ML**  
 📫 Reach me at: **anikdas210605@gmail.com**  
 🎸 To be honest I'm a bit of a crazy nerd
 
