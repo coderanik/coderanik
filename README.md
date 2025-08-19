@@ -1,11 +1,10 @@
 # 💫 About Me :
-🌱 I'm currently working with **NextJS**  
-💬 Ask me about **Full Stack development**    
-🚀 Currently exploring **AI/ML**  
-📫 Reach me at: **anikdas210605@gmail.com**  
+🌱 I’m currently working with NextJS  
+💬 Ask me about Full Stack development    
+🚀 Currently exploring AI/ML  
+📫 Reach me at: anikdas210605@gmail.com  
 🎸 To be honest I'm a bit of a crazy nerd
 ---
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anikk.dass)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anikdas21)
@@ -33,30 +32,19 @@
 ---
 
 # 🚀 My Projects
-🔹 **[Portfolio](https://github.com/coderanik/Anik-Das)** - Portfolio Website  
-🔹 **[Aerosphere](https://github.com/coderanik/AeroSphere)** - A fully functioning weather website that displays both current weather and forecasts  
-🔹 **[Verdura](https://github.com/coderanik/Verdura)** - Simple Organic Fashion Website Made using Tailwind CSS  
+🔹 [Portfolio](https://github.com/coderanik/Anik-Das) - Portfolio Website  
+🔹 [Aerosphere](https://github.com/coderanik/AeroSphere) - A fully functioning weather website that displays both current weather and forecasts  
+🔹 [Verdura](https://github.com/coderanik/Verdura) - Simple Organic Fashion Website Made using Tailwind CSS  
 ---
 
 # 📊 GitHub Stats
-<div align="center">
-  
 ![](https://github-readme-stats.vercel.app/api?username=coderanik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)  
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coderanik&theme=radical&hide_border=false)  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderanik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderanik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coderanik&theme=react-dark&hide_border=true&area=true)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderanik&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=coderanik&theme=radical&hide_border=false" width="400"/>
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=coderanik&repo=AeroSphere&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/pin/?username=coderanik&repo=Anik-Das&theme=radical&hide_border=false)
-
-</div>  
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=coderanik&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
