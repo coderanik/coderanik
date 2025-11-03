@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Anik Das
+# 👋 Hey there, I'm Anik
 
 ### 🚀 Full Stack Developer | AI/ML Enthusiast | Problem Solver
 
@@ -108,7 +108,7 @@ const anik = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🌐 **[Portfolio](https://github.com/coderanik/Anik-Das)** | Personal portfolio showcasing my work | Next.js, React, TailwindCSS |
+| 🌐 **[WhisPr](https://github.com/coderanik/WhisPr)** | Secured anonymous messaging platform | Next.js, Expressjs, TailwindCSS, TypeScript, Redis |
 | 🌤️ **[Aerosphere](https://github.com/coderanik/AeroSphere)** | Real-time weather app with forecasts | JavaScript, API Integration |
 | 🌿 **[Verdura](https://github.com/coderanik/Verdura)** | Organic fashion e-commerce site | HTML, TailwindCSS |
 
