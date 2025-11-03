@@ -149,17 +149,20 @@ const anik = {
 
 </div>
 
+<!--
 ## 🏙️ GitHub Skyline
-
-<div align="center">
 
 **My Contributions in 3D**
 
-[![View 2024 Skyline](https://img.shields.io/badge/View_3D_Skyline-2024-blueviolet?style=for-the-badge&logo=github)](https://skyline.github.com/coderanik/2024)
+<p align="center">
+  <a href="https://skyline.github.com/coderanik/2024">
+    <img src="https://img.shields.io/badge/View_3D_Skyline-2023-blueviolet?style=for-the-badge&logo=github" alt="View 2023 Skyline" />
+  </a>
+  <br />
+  <em>Click to see your GitHub contributions visualized as a 3D city skyline!</em>
+</p>
+-->
 
-*Click to see your GitHub contributions visualized as a 3D city skyline!*
-
-</div>
 
 ---
 
