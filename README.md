@@ -13,11 +13,11 @@
 ```typescript
 const anik = {
     location: "India 🇮🇳",
-    currentFocus: "NextJS & Full Stack Development",
-    exploring: ["AI/ML", "Cloud Architecture", "System Design"],
-    interests: ["Music 🎸", "Tech Innovation", "Open Source"],
+    currentFocus: "Deep Learning",
+    exploring: ["AI/ML", "Computer Vision", "System Design"],
+    interests: ["Photography 🎸", "Travelling", "Open Source"],
     contact: "anikdas210605@gmail.com",
-    funFact: "I'm a bit of a crazy nerd who loves turning coffee into code ☕"
+    funFact: "I’m a curious tech nerd who lives and breathes One Piece ⚓️"
 };
 ```
 
