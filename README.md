@@ -1,24 +1,36 @@
 <div align="center">
 
-# 👋 Hey there, I'm Anik
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there,%20I'm%20Anik%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I%20turn%20caffeine%20into%20code%20☕→💻&descSize=16&descAlignY=52" width="100%"/>
 
-### 🚀 Full Stack Developer | AI/ML Enthusiast | Problem Solver
+### 🚀 Full Stack Developer | AI/ML Enthusiast | One Piece Theorist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+the+future+with+code;Full+Stack+Developer;NextJS+%7C+React+%7C+Node.js;Always+learning%2C+always+growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=console.log(%22Hello+World!%22);git+commit+-m+%22fixed+a+typo+that+broke+prod%22;404%3A+Sleep+Not+Found;while(alive)+%7B+eat();+sleep();+code();+%7D;It+works+on+my+machine+🤷;Mass+Deployer+of+Bugs+🐛" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=coderanik&style=for-the-badge&color=3B82F6&label=PROFILE+STALKERS)
 
 </div>
 
 ## 🌟 About Me
 
 ```typescript
-const anik = {
-    location: "India 🇮🇳",
-    currentFocus: "Deep Learning",
-    exploring: ["AI/ML", "Computer Vision", "System Design"],
-    interests: ["Photography 🎸", "Travelling", "Open Source"],
-    contact: "anikdas210605@gmail.com",
-    funFact: "I’m a curious tech nerd who lives and breathes One Piece ⚓️"
-};
+class Developer {
+    name = "Anik Das";
+    location = "India 🇮🇳";
+    currentFocus = "Deep Learning";
+    pronouns = "he/him";
+    exploring = ["AI/ML", "Computer Vision", "System Design"];
+    hobbies = ["Photography 📸", "Travelling 🌍", "Open Source", "Anime 🍥"];
+    contact = "anikdas210605@gmail.com";
+    dailyRoutine = ["☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"];
+
+    funFact(): string {
+        return "I mass deploy bugs to production on fridays 🚀";
+    }
+
+    currentStatus(): string {
+        return "Somewhere between 'it works!' and 'why does it work?' 🤔";
+    }
+}
 ```
 
 <div align="center">
@@ -29,6 +41,38 @@ const anik = {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anikk.dass)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26660250)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikdas210605@gmail.com)
+
+</div>
+
+## ⚡ What I'm Up To
+
+<div align="center">
+
+🔭 Currently building **AI-powered side projects**
+
+🧠 Learning **Deep Learning & Computer Vision**
+
+⚓ Fun fact: I firmly believe **Luffy will be the King of Pirates**
+
+🎯 2026 Goals: Contribute more to **Open Source** & build something that gets **1000+ stars** ⭐
+
+💬 Ask me about **React, Next.js, Node.js, or why One Piece > everything**
+
+</div>
+
+## 🎲 Fun Facts
+
+<div align="center">
+
+| 🤓 Fact | 💬 Details |
+|---------|------------|
+| 🕐 Coding since | I could say "Hello World" |
+| ☕ Coffee consumed | `Integer.MAX_VALUE` cups |
+| 🐛 Bugs created | More than features, honestly |
+| 📚 Stack Overflow visits | Yes |
+| 🎵 Codes best with | Lo-fi beats & anime OSTs |
+| 🏴‍☠️ Favorite anime | One Piece (not debatable) |
+| 💤 Sleep schedule | `cron: */0 * * * *` (never runs) |
 
 </div>
 
@@ -179,7 +223,13 @@ const anik = {
 
 <div align="center">
 
-### 💭 Developer Quote
+### � Random Dev Joke
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
+
+---
+
+### �💭 Developer Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -191,8 +241,16 @@ const anik = {
 
 ---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+### 🗺️ Where My Visitors Come From
+
+<img src="https://profile-counter.glitch.me/coderanik/count.svg" alt="Visitor Count" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 **⭐️ From [coderanik](https://github.com/coderanik) with ❤️**
+
+*"The only way to do great work is to love what you do — and occasionally break production."*
 
 </div>
