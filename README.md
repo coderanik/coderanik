@@ -239,13 +239,6 @@ class Developer {
 
 [![Spotify](https://coderanik.vercel.app/api/spotify)](https://open.spotify.com/user/coderanik)
 
----
-
-### 🗺️ Where My Visitors Come From
-
-<img src="https://profile-counter.glitch.me/coderanik/count.svg" alt="Visitor Count" />
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
