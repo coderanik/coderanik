@@ -220,7 +220,27 @@ class Developer {
 
 <div align="center">
 
-![GitHub Trophies](https://github-trophies.vercel.app/?username=coderanik&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=coderanik&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+
+</div>
+
+## 🎖️ GitHub Badges
+
+<div align="center">
+
+| Badge | Name | How To Earn |
+|:-----:|:----:|:-----------:|
+| 🦈 | **Pull Shark** | Merge 2+ pull requests |
+| 🔀 | **YOLO** | Merge a PR without code review |
+| ⚡ | **Quickdraw** | Close an issue/PR within 5 min of opening |
+| 🌟 | **Starstruck** | Have a repo with 16+ stars |
+| ❤️ | **Sponsor** | Sponsor an open source project |
+| 🏗️ | **Arctic Code Vault** | Contributed to 2020 Archive Program |
+| 🎯 | **Galaxy Brain** | 2+ accepted discussion answers |
+| 🖼️ | **Pair Extraordinaire** | Co-author 1+ merged PR |
+| 👍 | **Public Sponsor** | Publicly sponsor an OSS contributor |
+
+*Keep contributing to unlock more!* 🚀
 
 </div>
 
