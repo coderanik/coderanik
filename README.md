@@ -118,12 +118,12 @@ const anik = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=coderanik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=coderanik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
 <img src="https://streak-stats.demolab.com/?user=coderanik&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderanik&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=coderanik&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderanik&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="170"/>
 
 <br/>
@@ -136,7 +136,7 @@ const anik = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=coderanik&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=coderanik&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
