@@ -186,6 +186,7 @@ class Developer {
 
 </div>
 
+<!--
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -197,6 +198,8 @@ class Developer {
 | 🌿 **[Verdura](https://github.com/coderanik/Verdura)** | Organic fashion e-commerce site | HTML, TailwindCSS |
 
 </div>
+-->
+
 
 ## 📊 GitHub Analytics
 
