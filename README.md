@@ -227,6 +227,7 @@ class Developer {
 
 </div>
 
+<!--
 ## 🎖️ GitHub Badges
 
 <div align="center">
@@ -246,6 +247,7 @@ class Developer {
 *Keep contributing to unlock more!* 🚀
 
 </div>
+-->
 
 
 ## 📈 Contribution Stats
