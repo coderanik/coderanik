@@ -76,116 +76,20 @@ class Developer {
 
 </div>
 
-## 💻 Tech Arsenal
+<h2 align="center">💻 Tech Arsenal</h2>
+<p align="center"><i>Fullstack Engineer · React + Node Specialist · AI/ML Enthusiast</i></p>
 
-> *"I don't always test my code, but when I do, I do it in production"* 🔥
+<br>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="20%" align="center"><b>Languages</b></td>
-<td width="80%">
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="20%" align="center"><b>Frontend</b></td>
-<td width="80%">
-  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="20%" align="center"><b>Backend</b></td>
-<td width="80%">
-  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="20%" align="center"><b>Database & ORM</b></td>
-<td width="80%">
-  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="20%" align="center"><b>AI / ML</b></td>
-<td width="80%">
-  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="20%" align="center"><b>DevOps</b></td>
-<td width="80%">
-  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="20%" align="center"><b>Tools & Platforms</b></td>
-<td width="80%">
-  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-</td>
-</tr>
-</table>
+| **Languages** | **Frontend** | **Backend** | **Databases** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=js" width="48"/> <img src="https://skillicons.dev/icons?i=ts" width="48"/> <img src="https://skillicons.dev/icons?i=py" width="48"/> <img src="https://skillicons.dev/icons?i=java" width="48"/> <img src="https://skillicons.dev/icons?i=cpp" width="48"/> <img src="https://skillicons.dev/icons?i=c" width="48"/> <img src="https://skillicons.dev/icons?i=html" width="48"/> <img src="https://skillicons.dev/icons?i=css" width="48"/> | <img src="https://skillicons.dev/icons?i=react" width="48"/> <img src="https://skillicons.dev/icons?i=nextjs" width="48"/> <img src="https://skillicons.dev/icons?i=tailwind" width="48"/> <img src="https://skillicons.dev/icons?i=framermotion" width="48"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> <img src="https://skillicons.dev/icons?i=express" width="48"/> <img src="https://skillicons.dev/icons?i=hono" width="48"/> <img src="https://skillicons.dev/icons?i=fastapi" width="48"/> | <img src="https://skillicons.dev/icons?i=postgres" width="48"/> <img src="https://skillicons.dev/icons?i=mongodb" width="48"/> <img src="https://skillicons.dev/icons?i=mysql" width="48"/> <img src="https://skillicons.dev/icons?i=supabase" width="48"/> <img src="https://skillicons.dev/icons?i=prisma" width="48"/> <img src="https://skillicons.dev/icons?i=redis" width="48"/> |
+| **AI / ML** | **DevOps** | **Tools & Editors** | **Deployment** |
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/> <img src="https://skillicons.dev/icons?i=pytorch" width="48"/> <img src="https://skillicons.dev/icons?i=opencv" width="48"/> <img src="https://skillicons.dev/icons?i=jupyter" width="48"/> | <img src="https://skillicons.dev/icons?i=docker" width="48"/> <img src="https://skillicons.dev/icons?i=githubactions" width="48"/> <img src="https://skillicons.dev/icons?i=nginx" width="48"/> <img src="https://skillicons.dev/icons?i=linux" width="48"/> <img src="https://skillicons.dev/icons?i=postman" width="48"/> | <img src="https://skillicons.dev/icons?i=vscode" width="48"/> <img src="https://skillicons.dev/icons?i=figma" width="48"/> <img src="https://skillicons.dev/icons?i=notion" width="48"/> <img src="https://skillicons.dev/icons?i=git" width="48"/> <img src="https://skillicons.dev/icons?i=github" width="48"/> | <img src="https://skillicons.dev/icons?i=vercel" width="48"/> <img src="https://skillicons.dev/icons?i=firebase" width="48"/> |
 
 </div>
-
 <!--
 ## 🎯 Featured Projects
 
