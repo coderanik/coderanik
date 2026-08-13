@@ -17,12 +17,12 @@
 
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.6s" fill="freeze"/>
-    <text xml:space="preserve" x="28" y="78"  font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.2" fill="#3B82F6"> ██████╗ ██████╗ ██████╗ ███████╗██████╗  █████╗ ███╗   ██╗██╗██╗  ██╗</text>
-    <text xml:space="preserve" x="28" y="96"  font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.2" fill="#3B82F6">██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗  ██║██║██║ ██╔╝</text>
-    <text xml:space="preserve" x="28" y="114" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.2" fill="#60A5FA">██║     ██║   ██║██║  ██║█████╗  ██████╔╝███████║██╔██╗ ██║██║█████╔╝ </text>
-    <text xml:space="preserve" x="28" y="132" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.2" fill="#60A5FA">██║     ██║   ██║██║  ██║██╔══╝  ██╔══██╗██╔══██║██║╚██╗██║██║██╔═██╗ </text>
-    <text xml:space="preserve" x="28" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.2" fill="#93C5FD">╚██████╗╚██████╔╝██████╔╝███████╗██║  ██║██║  ██║██║ ╚████║██║██║  ██╗</text>
-    <text xml:space="preserve" x="28" y="168" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.2" fill="#93C5FD"> ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝</text>
+    <text xml:space="preserve" text-anchor="middle" x="360" y="78"  font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.2" fill="#3B82F6"> ██████╗ ██████╗ ██████╗ ███████╗██████╗  █████╗ ███╗   ██╗██╗██╗  ██╗</text>
+    <text xml:space="preserve" text-anchor="middle" x="360" y="96"  font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.2" fill="#3B82F6">██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗  ██║██║██║ ██╔╝</text>
+    <text xml:space="preserve" text-anchor="middle" x="360" y="114" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.2" fill="#60A5FA">██║     ██║   ██║██║  ██║█████╗  ██████╔╝███████║██╔██╗ ██║██║█████╔╝ </text>
+    <text xml:space="preserve" text-anchor="middle" x="360" y="132" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.2" fill="#60A5FA">██║     ██║   ██║██║  ██║██╔══╝  ██╔══██╗██╔══██║██║╚██╗██║██║██╔═██╗ </text>
+    <text xml:space="preserve" text-anchor="middle" x="360" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.2" fill="#93C5FD">╚██████╗╚██████╔╝██████╔╝███████╗██║  ██║██║  ██║██║ ╚████║██║██║  ██╗</text>
+    <text xml:space="preserve" text-anchor="middle" x="360" y="168" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.2" fill="#93C5FD"> ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝</text>
   </g>
 
   <text x="360" y="198" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="3" fill="#8b949e">full stack · ai/ml · open source</text>

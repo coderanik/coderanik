@@ -4,6 +4,8 @@
 
 ### 🚀 Full Stack Developer | AI/ML Enthusiast | One Piece Theorist
 
+<img src="./wordmark.svg" alt="coderanik ASCII wordmark" width="100%"/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=console.log(%22Hello+World!%22);git+commit+-m+%22fixed+a+typo+that+broke+prod%22;404%3A+Sleep+Not+Found;while(alive)+%7B+eat();+sleep();+code();+%7D;It+works+on+my+machine+🤷;Mass+Deployer+of+Bugs+🐛" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=coderanik&style=for-the-badge&color=3B82F6&label=PROFILE+STALKERS)
