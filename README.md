@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there,%20I'm%20Anik%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I%20turn%20caffeine%20into%20code%20☕→💻&descSize=16&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:06B6D4&height=180&section=header&text=Hey%20there,%20I'm%20Anik%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I%20turn%20caffeine%20into%20code%20☕→💻&descSize=16&descAlignY=52" width="100%"/>
 
 ### 🚀 Full Stack Developer | AI/ML Enthusiast | One Piece Theorist
 
-<img src="./wordmark.svg" alt="ANIK ASCII wordmark" width="100%"/>
+<img src="./wordmark.svg" alt="coderanik ASCII wordmark" width="65%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=console.log(%22Hello+World!%22);git+commit+-m+%22fixed+a+typo+that+broke+prod%22;404%3A+Sleep+Not+Found;while(alive)+%7B+eat();+sleep();+code();+%7D;It+works+on+my+machine+🤷;Mass+Deployer+of+Bugs+🐛" alt="Typing SVG" />
 
@@ -16,12 +16,12 @@
 
 <table>
 <tr>
-<td width="30%">
+<td width="50%" valign="top">
 
-<img src="./portrait.svg" alt="ASCII Portrait" width="100%"/>
+<img src="./portrait.svg" alt="ASCII Portrait" width="520"/>
 
 </td>
-<td width="70%">
+<td width="50%" valign="top">
 
 ```typescript
 class Developer {
@@ -172,7 +172,7 @@ class Developer {
 
 [![Spotify](https://coderanik.vercel.app/api/spotify)](https://open.spotify.com/user/coderanik)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:06B6D4&height=100&section=footer" width="100%"/>
 
 **⭐️ From [coderanik](https://github.com/coderanik) with ❤️**
 
