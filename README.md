@@ -15,37 +15,50 @@
 ## 🌟 About Me
 
 <table>
-<tr>
-<td width="70%" valign="top">
+  <tr>
+    <td width="700" valign="top">
+      <img src="./portrait.svg" alt="ASCII Portrait" width="700"/>
+    </td>
+    <td width="300" valign="top">
 
-<img src="./portrait.svg" alt="ASCII Portrait" width="100%"/>
-
-</td>
-<td width="30%" valign="top">
-
-```typescript
+```ts
 class Developer {
-    name = "Anik Das";
-    location = "India 🇮🇳";
-    currentFocus = "Deep Learning";
-    pronouns = "he/him";
-    exploring = ["AI/ML", "Computer Vision", "System Design"];
-    hobbies = ["Photography 📸", "Travelling 🌍", "Open Source", "Anime 🍥"];
-    contact = "anikdas210605@gmail.com";
-    dailyRoutine = ["☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"];
+  name = "Anik Das";
+  location = "India 🇮🇳";
+  currentFocus = "Deep Learning";
+  pronouns = "he/him";
+  exploring = [
+    "AI/ML",
+    "Computer Vision",
+    "System Design",
+  ];
+  hobbies = [
+    "Photography 📸",
+    "Travelling 🌍",
+    "Open Source",
+    "Anime 🍥",
+  ];
+  contact =
+    "anikdas210605@gmail.com";
+  dailyRoutine = [
+    "☕ Coffee",
+    "💻 Code",
+    "🐛 Debug",
+    "🔁 Repeat",
+  ];
 
-    funFact(): string {
-        return "I mass deploy bugs to production on fridays 🚀";
-    }
+  funFact(): string {
+    return "I mass deploy bugs to production on fridays 🚀";
+  }
 
-    currentStatus(): string {
-        return "Somewhere between 'it works!' and 'why does it work?' 🤔";
-    }
+  currentStatus(): string {
+    return "Somewhere between 'it works!' and 'why does it work?' 🤔";
+  }
 }
 ```
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
