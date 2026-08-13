@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 <img src="./portrait.svg" alt="ASCII Portrait" width="720"/>
 
