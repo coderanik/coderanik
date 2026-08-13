@@ -4,6 +4,8 @@
 
 ### 🚀 Full Stack Developer | AI/ML Enthusiast | One Piece Theorist
 
+<img src="./wordmark.svg" alt="ANIK ASCII wordmark" width="100%"/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=console.log(%22Hello+World!%22);git+commit+-m+%22fixed+a+typo+that+broke+prod%22;404%3A+Sleep+Not+Found;while(alive)+%7B+eat();+sleep();+code();+%7D;It+works+on+my+machine+🤷;Mass+Deployer+of+Bugs+🐛" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=coderanik&style=for-the-badge&color=3B82F6&label=PROFILE+STALKERS)
@@ -11,6 +13,15 @@
 </div>
 
 ## 🌟 About Me
+
+<table>
+<tr>
+<td width="30%">
+
+<img src="./portrait.svg" alt="ASCII Portrait" width="100%"/>
+
+</td>
+<td width="70%">
 
 ```typescript
 class Developer {
@@ -32,6 +43,10 @@ class Developer {
     }
 }
 ```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -90,20 +105,6 @@ class Developer {
 | <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/> <img src="https://skillicons.dev/icons?i=pytorch" width="48"/> <img src="https://skillicons.dev/icons?i=opencv" width="48"/> <img src="https://skillicons.dev/icons?i=jupyter" width="48"/> | <img src="https://skillicons.dev/icons?i=docker" width="48"/> <img src="https://skillicons.dev/icons?i=githubactions" width="48"/> <img src="https://skillicons.dev/icons?i=nginx" width="48"/> <img src="https://skillicons.dev/icons?i=linux" width="48"/> <img src="https://skillicons.dev/icons?i=postman" width="48"/> | <img src="https://skillicons.dev/icons?i=vscode" width="48"/> <img src="https://skillicons.dev/icons?i=figma" width="48"/> <img src="https://skillicons.dev/icons?i=notion" width="48"/> <img src="https://skillicons.dev/icons?i=git" width="48"/> <img src="https://skillicons.dev/icons?i=github" width="48"/> | <img src="https://skillicons.dev/icons?i=vercel" width="48"/> <img src="https://skillicons.dev/icons?i=firebase" width="48"/> |
 
 </div>
-<!--
-## 🎯 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌐 **[WhisPr](https://github.com/coderanik/WhisPr)** | Secured anonymous messaging platform | Next.js, Expressjs, TailwindCSS, TypeScript, Redis |
-| 🌤️ **[Aerosphere](https://github.com/coderanik/AeroSphere)** | Real-time weather app with forecasts | JavaScript, API Integration |
-| 🌿 **[Verdura](https://github.com/coderanik/Verdura)** | Organic fashion e-commerce site | HTML, TailwindCSS |
-
-</div>
--->
-
 
 ## 📊 GitHub Analytics
 
@@ -131,29 +132,6 @@ class Developer {
 
 </div>
 
-<!--
-## 🎖️ GitHub Badges
-
-<div align="center">
-
-| Badge | Name | How To Earn |
-|:-----:|:----:|:-----------:|
-| 🦈 | **Pull Shark** | Merge 2+ pull requests |
-| 🔀 | **YOLO** | Merge a PR without code review |
-| ⚡ | **Quickdraw** | Close an issue/PR within 5 min of opening |
-| 🌟 | **Starstruck** | Have a repo with 16+ stars |
-| ❤️ | **Sponsor** | Sponsor an open source project |
-| 🏗️ | **Arctic Code Vault** | Contributed to 2020 Archive Program |
-| 🎯 | **Galaxy Brain** | 2+ accepted discussion answers |
-| 🖼️ | **Pair Extraordinaire** | Co-author 1+ merged PR |
-| 👍 | **Public Sponsor** | Publicly sponsor an OSS contributor |
-
-*Keep contributing to unlock more!* 🚀
-
-</div>
--->
-
-
 ## 📈 Contribution Stats
 
 <div align="center">
@@ -162,43 +140,32 @@ class Developer {
 
 </div>
 
-<!--
-## 🏙️ GitHub Skyline
-
-**My Contributions in 3D**
-
-<p align="center">
-  <a href="https://skyline.github.com/coderanik/2024">
-    <img src="https://img.shields.io/badge/View_3D_Skyline-2023-blueviolet?style=for-the-badge&logo=github" alt="View 2023 Skyline" />
-  </a>
-  <br />
-  <em>Click to see your GitHub contributions visualized as a 3D city skyline!</em>
-</p>
--->
-
-
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  
+<table>
+<tr>
+<td align="center" width="35%">
+
+<img src="./portrait.svg" alt="ASCII Portrait" width="100%"/>
+
+</td>
+<td align="center" width="65%">
+
 ![Snake animation](https://raw.githubusercontent.com/coderanik/coderanik/output/github-contribution-grid-snake-dark.svg)
 
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-
 <div align="center">
 
-### � Random Dev Joke
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
-
----
-
-### �💭 Developer Quote
+### 💭 Developer Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -206,8 +173,20 @@ class Developer {
 
 ### 🎵 Currently Vibing To
 
+<table>
+<tr>
+<td align="center" width="35%">
+
+<img src="./portrait.svg" alt="ASCII Portrait" width="100%"/>
+
+</td>
+<td align="center" width="65%">
+
 [![Spotify](https://coderanik.vercel.app/api/spotify)](https://open.spotify.com/user/coderanik)
 
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
