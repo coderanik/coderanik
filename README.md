@@ -4,8 +4,6 @@
 
 ### 🚀 Full Stack Developer | AI/ML Enthusiast | One Piece Theorist
 
-<img src="./wordmark.svg" alt="coderanik ASCII wordmark" width="65%"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=console.log(%22Hello+World!%22);git+commit+-m+%22fixed+a+typo+that+broke+prod%22;404%3A+Sleep+Not+Found;while(alive)+%7B+eat();+sleep();+code();+%7D;It+works+on+my+machine+🤷;Mass+Deployer+of+Bugs+🐛" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=coderanik&style=for-the-badge&color=3B82F6&label=PROFILE+STALKERS)
@@ -162,6 +160,8 @@ class Developer {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:06B6D4&height=100&section=footer" width="100%"/>
 
 **⭐️ From [coderanik](https://github.com/coderanik) with ❤️**
+
+<img src="./wordmark.svg" alt="coderanik ASCII wordmark" width="100%"/>
 
 *"The only way to do great work is to love what you do — and occasionally break production."*
 
