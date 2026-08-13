@@ -18,7 +18,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="./portrait.svg" alt="ASCII Portrait" width="520"/>
+<img src="./portrait.svg" alt="ASCII Portrait" width="720"/>
 
 </td>
 <td width="50%" valign="top">
