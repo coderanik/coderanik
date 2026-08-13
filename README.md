@@ -14,9 +14,14 @@
 
 ## 🌟 About Me
 
-<div align="center">
-  <img src="./portrait.svg" alt="ASCII Portrait" width="100%"/>
-</div>
+<table>
+<tr>
+<td width="70%" valign="top">
+
+<img src="./portrait.svg" alt="ASCII Portrait" width="100%"/>
+
+</td>
+<td width="30%" valign="top">
 
 ```typescript
 class Developer {
@@ -38,6 +43,10 @@ class Developer {
     }
 }
 ```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
