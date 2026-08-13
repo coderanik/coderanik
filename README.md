@@ -145,20 +145,17 @@ class Developer {
 ## 🐍 Contribution Snake
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="35%">
-
-<img src="./portrait.svg" alt="ASCII Portrait" width="100%"/>
-
-</td>
-<td align="center" width="65%">
 
 ![Snake animation](https://raw.githubusercontent.com/coderanik/coderanik/output/github-contribution-grid-snake-dark.svg)
 
-</td>
-</tr>
-</table>
+</div>
+
+## 👾 Contribution Invaders
+
+<div align="center">
+
+![Commit Invaders](https://raw.githubusercontent.com/coderanik/coderanik/output/git-invader-multi-dark.svg)
+
 </div>
 
 ---
@@ -173,20 +170,7 @@ class Developer {
 
 ### 🎵 Currently Vibing To
 
-<table>
-<tr>
-<td align="center" width="35%">
-
-<img src="./portrait.svg" alt="ASCII Portrait" width="100%"/>
-
-</td>
-<td align="center" width="65%">
-
 [![Spotify](https://coderanik.vercel.app/api/spotify)](https://open.spotify.com/user/coderanik)
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
