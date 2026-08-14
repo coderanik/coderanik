@@ -97,16 +97,17 @@ class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=coderanik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats-anik.vercel.app/api?username=coderanik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
 <img src="https://streak-stats.demolab.com/?user=coderanik&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
 <br/>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=coderanik&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderanik&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="170"/>
 
 <br/>
 
-<img src="https://ghchart.rshah.org/3B82F6/coderanik" alt="GitHub Contribution Chart" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderanik&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -122,7 +123,7 @@ class Developer {
 
 <div align="center">
 
-<img src="https://github-contribution-stats.vercel.app/api/?username=coderanik" alt="Contribution Stats"/>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderanik&theme=tokyonight)
 
 </div>
 
