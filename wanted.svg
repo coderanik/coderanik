@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="280" viewBox="0 0 720 280" role="img" aria-label="Wanted poster: Anik Das">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F59E0B"/>
+      <stop offset="0.5" stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="718" height="278" rx="16" fill="url(#bg)" stroke="url(#gold)" stroke-width="2"/>
+  <text x="360" y="48" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" letter-spacing="14" fill="#FDE68A">W A N T E D</text>
+  <text x="360" y="78" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#93C5FD">DEAD OR ALIVE  ·  EAST BLUE  ·  GITHUB SEAS</text>
+  <text x="360" y="128" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" fill="#F8FAFC">ANIK DAS</text>
+  <text x="360" y="158" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#60A5FA">Full Stack Pirate  ·  AI/ML Navigator  ·  One Piece Theorist</text>
+  <line x1="80" y1="180" x2="640" y2="180" stroke="#1E3A8A" stroke-width="1"/>
+  <text x="360" y="214" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#FBBF24">BOUNTY  ?  3,263,000,000</text>
+  <text x="360" y="244" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#64748B">crimes: shipping on fridays  ·  mass-deploying bugs  ·  believing luffy is king</text>
+</svg>

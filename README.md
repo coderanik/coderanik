@@ -111,11 +111,41 @@ class Developer {
 
 </div>
 
-## 🏆 Achievements
+## 🏴‍☠️ Bounty Board
+
+<div align="center">
+  <img src="./wanted.svg" alt="Wanted poster for Anik Das" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-![GitHub Trophies](https://github-trophies.vercel.app/?username=coderanik&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+| ⚔️ Class | 🗺️ Territory | 🧭 Devil Fruit | 👑 Ambition |
+|:---:|:---:|:---:|:---:|
+| Full Stack Swordsman | India 🇮🇳 | `DeepLearning-no-Mi` | 1000+ ⭐ repo |
+| 🔥 Current Quest | 🧠 Training | ⚓ Allegiance | 🎯 Next Island |
+| Ship AI side projects | Computer Vision | Straw Hat Energy | Open Source |
+
+</div>
+
+## 🚢 Featured Ships
+
+<div align="center">
+
+<a href="https://github.com/coderanik/Glyph">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coderanik&repo=Glyph&theme=tokyonight&hide_border=true" alt="Glyph" />
+</a>
+<a href="https://github.com/coderanik/Infernia">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coderanik&repo=Infernia&theme=tokyonight&hide_border=true" alt="Infernia" />
+</a>
+
+<a href="https://github.com/coderanik/ORBITA">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coderanik&repo=ORBITA&theme=tokyonight&hide_border=true" alt="ORBITA" />
+</a>
+<a href="https://github.com/coderanik/WanderSafe">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coderanik&repo=WanderSafe&theme=tokyonight&hide_border=true" alt="WanderSafe" />
+</a>
 
 </div>
 
